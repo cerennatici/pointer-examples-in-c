@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1750166406 source:g:\drive'ým\bilgisayarim\bilgisayar mühendisliði\1.sýnýf\avp\ckodlari\pointerexamples\minmaxandreversalwithpointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
